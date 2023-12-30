@@ -30,13 +30,17 @@
   
 <br/>
 
-<h2 align="center">My stats</h3>
+<h2>My stats</h3>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naskriK&layout=compact" width="400" alt="langs" />
     <br />
   <img src="https://github-readme-stats.vercel.app/api?username=naskriK&count_private=true&show_icons=true" width="400" alt="my stats" />
 </p>
 
 <br/>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=naskriK)](https://git.io/streak-stats)
+
+
 
